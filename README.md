@@ -1,1 +1,5 @@
-# streisand_config
+1. Project Description
+This project involves creating a custom Streisand configuration file tailored to specific needs while leveraging open-source data as the foundation. The goal is to optimize performance, enhance compatibility, and ensure stability within the intended environment. The configuration is designed with modularity and scalability in mind, allowing for easy adaptation to future requirements. By utilizing open-source resources, the project emphasizes transparency, community-driven improvements, and cost efficiency.
+
+2. Intro: 
+Selective Traffic Protection on Apple Devices using Streisand for Users in Russia. This solution provides selective traffic routing through Shadowrocket, tailored for users in Russia. All traffic will be routed directly through your internet service provider, while requests to specific domains listed in the configuration file will be redirected through your server. For example, you will be able to access YouTube or Instagram without the need to manually activate a VPN application each time. This approach ensures seamless access to targeted services while maintaining efficient traffic management for everyday usage.
